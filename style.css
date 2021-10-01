@@ -1,0 +1,77 @@
+
+.LETTERONE{
+    color:cornflowerblue;
+    font-size:50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.LETTERTWO{
+    color:crimson;
+    font-size:50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ATEXT{
+    color:forestgreen;
+    font-size:16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.FTEXT{
+    color:crimson;
+    font-size:16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.BottonONE{
+    margin-top: 40px;
+    height:40px;
+    width:80px;
+    background-color:rgb(0, 38, 255);
+    border-radius:50px;
+    text-align: center;
+    font-size:25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    display: inline-block;
+}
+
+.BottonTWO{
+    margin-top: 40px;
+    height:40px;
+    width:80px;
+    background-color:rgb(21, 255, 0);
+    border-radius:50px;
+    text-align: center;
+    font-size:25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    display: inline-block;
+}
+
+.Box1{
+    margin-top: 40px;
+    height:100px;
+    width:200px;
+    background-color:rgb(255, 0, 0);
+    border-radius:20px; 
+    display: inline-block;
+}
+
+.Box2{
+    margin-top: 40px;
+    height:100px;
+    width:250px;
+    background-color:rgb(21, 255, 0);
+    border-radius:20px; 
+    display: inline-block;
+}
+
+.Box3{
+    margin-top: 40px;
+    height:100px;
+    width:300px;
+    background-color:rgb(0, 38, 255);
+    border-radius:20px; 
+    display: inline-block;
+}
